@@ -1,0 +1,10 @@
+#body {
+text-align: center;
+background-color: beige;
+ font-family: Copperplate, Papyrus, fantasy;
+}
+
+#welcome {
+background-image: linear-gradient(to bottom right, red, yellow);
+
+}
